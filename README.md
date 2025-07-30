@@ -24,10 +24,10 @@ Using **Wireshark**, I captured and compared both types of traffic to simulate a
 ## 📸 Screenshots
 
 ### 🔓 HTTP Traffic – Credentials Visible
-![HTTP Capture](./screenshots/http-credentials.png)
+![HTTP Capture] (https://github.com/panda88-secure/Wireshark-HTTP-HTTPS/blob/main/HTTPS%20PLAIN%20TEXT.png)
 
 ### 🔐 HTTPS Traffic – Encrypted
-![HTTPS Capture]([./screenshots/https-encrypted.png](https://github.com/panda88-secure/Wireshark-HTTP-HTTPS/blob/main/HTTPS%20ENCRYPTED%20.png)
+![HTTPS Capture](https://github.com/panda88-secure/Wireshark-HTTP-HTTPS/blob/main/HTTPS%20ENCRYPTED%20.png)
 
 ---
 
