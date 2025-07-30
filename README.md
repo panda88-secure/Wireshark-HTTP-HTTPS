@@ -27,7 +27,7 @@ Using **Wireshark**, I captured and compared both types of traffic to simulate a
 ![HTTP Capture](./screenshots/http-credentials.png)
 
 ### 🔐 HTTPS Traffic – Encrypted
-![HTTPS Capture](./screenshots/https-encrypted.png)
+![HTTPS Capture]([./screenshots/https-encrypted.png](https://github.com/panda88-secure/Wireshark-HTTP-HTTPS/blob/main/HTTPS%20ENCRYPTED%20.png)
 
 ---
 
