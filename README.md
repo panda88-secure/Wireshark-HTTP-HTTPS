@@ -32,7 +32,7 @@ Using **Wireshark**, I captured and compared both types of traffic to simulate a
 ---
 
 ## 📥 Project Report (PDF)
-📄 [Download Full Report](./Wireshark_Report.pdf)
+📄 [Download Full Report](https://github.com/panda88-secure/Wireshark-HTTP-HTTPS/blob/main/wireshark%20report.pdf)
 
 Includes:
 - Step-by-step lab process  
@@ -53,4 +53,11 @@ Includes:
 ✅ Completed | 🕵️ SOC & Compliance Ready | 📂 Uploaded: July 2025
 
 ---
+---
+
+## 🙋‍♀️ About Me
+**Swarupa Pawbake**  
+- Entry-Level SOC Analyst | VAPT | CEH (Pursuing)  
+- Hands-on with Splunk, Wazuh, Nessus, Burp Suite  
+- 🌐 Connect with me on [LinkedIn](www.linkedin.com/in/swarupa-pawbake-58443a2a7) 
 
